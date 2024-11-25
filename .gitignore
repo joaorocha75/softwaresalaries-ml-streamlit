@@ -175,4 +175,6 @@ pyrightconfig.json
 # csvfile.csv
 **.csv
 
+## para ir buscar ficheiros de gitignore usar o toptal e identificar as linguagens usadas no projeto em especifico
+
 # End of https://www.toptal.com/developers/gitignore/api/python
